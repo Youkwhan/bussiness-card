@@ -1,0 +1,4 @@
+/*flex takes every direct children (1 level) and turns it into columns*/
+.pricing{
+   display: flex;
+}

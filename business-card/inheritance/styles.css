@@ -1,0 +1,5 @@
+body {
+   /*CSS inheritance only some properties: text align, color, fonts...*/
+   margin: 10px;
+   text-align: center;
+}
